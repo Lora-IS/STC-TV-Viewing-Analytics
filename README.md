@@ -4,7 +4,7 @@ An interactive analytics dashboard built to explore STC TV viewing behavior, con
 
 ## Live Interactive Dashboard
 
-[Explore the Dashboard]()
+[Explore the Dashboard](https://lora-is.github.io/STC-TV-Viewing-Analytics/)
 
 The dashboard allows users to filter by genre and content type, explore viewing trends, analyze audience behavior, sort content performance, and interact with visual insights.
 
